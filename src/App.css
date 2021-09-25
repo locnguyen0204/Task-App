@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-float infinite 3s ease-in-out;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+.App-link {
+  color: rgb(112, 76, 182);
+}
+
+@keyframes App-logo-float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px)
+  }
+  100% {
+    transform: translateY(0px)
+  }
+}
+
+.todoapp h3{
+    position: absolute;
+    top: -120px;
+    width: 100%;
+    font-size: 100px;
+    font-weight: 100;
+    text-align: center;
+    color: rgba(238, 1, 1, 0.15);
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+}
+
+.todoapp {
+  width: 800px;
+  background: #fff;
+  margin: 130px auto;
+  position: relative;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+.todo-list{
+  margin: 10px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.todo-list table{
+  border-width: 5px;
+  margin-top: 5px;
+}
+
+.todo-list tr td{
+  width: 100%;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.buttonedit{
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+}
+
+.delete-btn{
+  border-style: none;
+  display: block;
+  font-size: 30px;
+  color: #cc9a9a;
+  transition: color 0.2s ease-out;
+}
+
+.delete-btn:after{
+  content: "X";
+}
+
+.edit-btn{
+  border-style: none;
+  display: block;
+
+  font-size: 30px;
+  color: #cc9a9a;
+  transition: color 0.2s ease-out;
+}
+
+.edit-btn:after{
+  content: "✓";
+}
+
+.uncompleted{
+  font-size: 24px;
+  color: #cc9a9a;
+}
+
+.completed{
+  font-size: 24px;
+  color: #cc9a9a;
+  text-decoration: line-through;
+}

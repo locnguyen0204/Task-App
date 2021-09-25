@@ -1,0 +1,13 @@
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.deps.json
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.runtimeconfig.json
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.runtimeconfig.dev.json
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.dll
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.pdb
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.csproj.AssemblyReference.cache
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.AssemblyInfoInputs.cache
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.AssemblyInfo.cs
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.csproj.CoreCompileInputs.cache
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.dll
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.pdb
+C:\Users\jeffh\source\repos\WebApplication1\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.genruntimeconfig.cache
